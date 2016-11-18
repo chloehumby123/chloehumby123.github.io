@@ -1,0 +1,46 @@
+.container {
+	text-align: center;
+}
+
+.logo {
+	margin-top: 180px; 
+}
+
+.img {
+	border-radius: 50%;
+}
+
+.portie {
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+
+.header {
+	
+	text-align: center;
+	color: F3B005;
+	font-family: georgia;
+	font-size: 100px;
+	margin-bottom: 100px;
+}
+
+.sub-head {
+	text-align: left;
+	font-family: georgia;
+	font-size: 36px;
+}
+
+.sub-head-2 {
+	text-align: center;
+	font-family: georgia;
+	font-size: 36px;
+}
+
+.p {
+	float: right;
+	text-align: left; 
+	font-family: georgia;
+	font-size: 16px;
+	padding: 20px;
+
+}
